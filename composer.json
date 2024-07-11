@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bskscmn\\LaravelFullCalendar\\": "src/"
+            "LaravelFullCalendar\\": "src/"
         }
     },
     "extra": {
