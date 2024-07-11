@@ -1,5 +1,5 @@
 {
-    "name": "qlick/laravel-full-calendar",
+    "name": "bskscmn/laravel-full-calendar",
     "description": "This is a fork of https://github.com/nelkasovic/laravel-full-calendar.",
     "authors": [
         {
@@ -16,13 +16,12 @@
         "laravel/helpers": "^1.0"
     },
     "license": "MIT",
-    "homepage": "https://github.com/nelkasovic/laravel-full-calendar",
+    "homepage": "https://github.com/bskscmn/laravel-full-calendar",
     "support": {
-        "email": "nermin@qlick.ch",
-        "issues": "https://github.com/nelkasovic/laravel-full-calendar/issues",
-        "wiki": "https://github.com/nelkasovic/laravel-full-calendar/wiki",
-        "source": "https://github.com/nelkasovic/laravel-full-calendar",
-        "docs": "https://github.com/nelkasovic/laravel-full-calendar"
+        "issues": "https://github.com/bskscmn/laravel-full-calendar/issues",
+        "wiki": "https://github.com/bskscmn/laravel-full-calendar/wiki",
+        "source": "https://github.com/bskscmn/laravel-full-calendar",
+        "docs": "https://github.com/bskscmn/laravel-full-calendar"
     },
     "autoload": {
         "psr-4": {
